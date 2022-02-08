@@ -5,6 +5,6 @@
 [![AymanAkashi's Github stats](https://github-readme-stats.vercel.app/api?username=AymanAkashi&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true&theme=calm)](https://github.com/AymanAkashi?tab=repositories)
 
 
-<p align="center" width=500 hight=100>
+<p align="center" width=100 hight=100>
 <img src="https://github.com/AymanAkashi/ds/blob/master/Group%201%20(2).png"/>
 </p>
