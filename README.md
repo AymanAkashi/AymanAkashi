@@ -1,6 +1,10 @@
+### Hi there 👋
 
-[![AymanAkashi's Github stats](https://github-readme-stats.vercel.app/api?username=AymanAkashi&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true&theme=calm)](https://github.com/AymanAkashi?tab=repositories) [![aaggoujj's 42 stats](https://badge42.herokuapp.com/api/stats/aaggoujj?cursus=C%20reloaded)](https://github.com/AymanAkashi)
-<hr>
-<p align="center">
-<img src="https://github.com/AymanAkashi/ds/blob/master/Group%201%20(2).png" width=500 hight=500/>
-</p>
+[![aaggoujj's 42 stats](https://badge.mediaplus.ma/kettlebells/aaggoujj)](https://github.com/AymanAkashi)
+
+<a href="https://github.com/AymanAkashi?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanAkashi&theme=dark"/>
+</a>
+<a href="https://github.com/AymanAkashi?tab=repositories">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AymanAkashi&line_height=40&show_icons=true&theme=dark">
+</a>
