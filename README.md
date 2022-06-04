@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-[![aaggoujj's 42 stats]([https://badge.mediaplus.ma/kettlebells/aaggoujj](https://badge.mediaplus.ma/black/aaggoujj))](https://github.com/AymanAkashi)
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/aaggoujj" alt="aaggoujj's 42 stats" /></a>
 
 <a href="https://github.com/AymanAkashi?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanAkashi&theme=dark"/>
