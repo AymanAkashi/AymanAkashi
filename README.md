@@ -2,7 +2,7 @@ Hi 👋 My name is Aymane Aggoujjil
 =================================
 
 # 💫 About Me:
-🔭 I’m currently Working as Front-End Intern at Foodeals<br>🤝 I’m looking for help with any issus<br>🌱 I’m currently learning fullstack<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently Working as Sofware Engineer at Foodeals<br>🤝 I’m looking for help with any issus<br>💬 Ask me about<br>⚡
 
 # My Intra Stats
 
