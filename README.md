@@ -2,7 +2,7 @@ Hi 👋 My name is Aymane Aggoujjil
 =================================
 
 # 💫 About Me:
-🔭 I’m currently Working as Sofware Engineer at Foodeals<br>🤝 I’m looking for help with any issus<br>💬 Ask me about<br>⚡
+🔭 I’m currently Working as Sofware Engineer <br>🤝 I’m looking for help with any issus<br>💬 Ask me about<br>⚡
 
 # My Intra Stats
 
