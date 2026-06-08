@@ -45,7 +45,7 @@ I'm a Software Engineer focused on practical, well-structured applications from 
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/AymanAkashi/Inception_42">Inception_42</a></h3>
-      <p>Containerized infrastructure project with multiple services running together through Docker.</p>
+      <p>Forked/adapted from a friend's Inception work: a containerized infrastructure project with multiple services running through Docker.</p>
       <p><strong>Docker</strong> · Nginx · Linux · Services</p>
     </td>
     <td width="50%">
@@ -74,7 +74,7 @@ I'm a Software Engineer focused on practical, well-structured applications from 
 
 **Full-stack and web:** [HyperTube](https://github.com/AymanAkashi/HyperTube), [wordly](https://github.com/AymanAkashi/wordly), [Authv5](https://github.com/AymanAkashi/Authv5), [Median-RestAPI](https://github.com/AymanAkashi/Median-RestAPI), [git-github-flyer](https://github.com/AymanAkashi/git-github-flyer), [calculator_react_app](https://github.com/AymanAkashi/calculator_react_app)
 
-**Systems and 42 school:** [Inception_42](https://github.com/AymanAkashi/Inception_42), [Cub3D-42-cursus](https://github.com/AymanAkashi/Cub3D-42-cursus), [Minishell_42](https://github.com/AymanAkashi/Minishell_42), [Pipex](https://github.com/AymanAkashi/Pipex), [Philosopher_42](https://github.com/AymanAkashi/Philosopher_42), [Push_swap-42](https://github.com/AymanAkashi/Push_swap-42), [Libft-42](https://github.com/AymanAkashi/Libft-42), [ft_printf-42](https://github.com/AymanAkashi/ft_printf-42), [Get_next_line-42](https://github.com/AymanAkashi/Get_next_line-42), [So_Long](https://github.com/AymanAkashi/So_Long)
+**Systems and 42 school:** [Inception_42](https://github.com/AymanAkashi/Inception_42) (adapted from a friend's work), [Cub3D-42-cursus](https://github.com/AymanAkashi/Cub3D-42-cursus), [Minishell_42](https://github.com/AymanAkashi/Minishell_42), [Pipex](https://github.com/AymanAkashi/Pipex), [Philosopher_42](https://github.com/AymanAkashi/Philosopher_42), [Push_swap-42](https://github.com/AymanAkashi/Push_swap-42), [Libft-42](https://github.com/AymanAkashi/Libft-42), [ft_printf-42](https://github.com/AymanAkashi/ft_printf-42), [Get_next_line-42](https://github.com/AymanAkashi/Get_next_line-42), [So_Long](https://github.com/AymanAkashi/So_Long)
 
 **Algorithms and practice:** [Problem-set](https://github.com/AymanAkashi/Problem-set), [CPP-Modules-42](https://github.com/AymanAkashi/CPP-Modules-42)
 
