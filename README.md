@@ -29,32 +29,44 @@ I'm a Software Engineer focused on practical, well-structured applications from 
 
 ## Featured work
 
-<p align="center">
-  <a href="https://github.com/AymanAkashi/HyperTube">
-    <img width="49%" src="https://raw.githubusercontent.com/AymanAkashi/AymanAkashi/main/assets/cards/hypertube.png" alt="HyperTube repository card" />
-  </a>
-  <a href="https://github.com/segfault-terror/KingPong">
-    <img width="49%" src="https://raw.githubusercontent.com/AymanAkashi/AymanAkashi/main/assets/cards/kingpong.png" alt="KingPong repository card" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/AymanAkashi/Inception_42">
-    <img width="49%" src="https://raw.githubusercontent.com/AymanAkashi/AymanAkashi/main/assets/cards/inception-42.png" alt="Inception_42 repository card" />
-  </a>
-  <a href="https://github.com/Mou-SED/WebServ_42">
-    <img width="49%" src="https://raw.githubusercontent.com/AymanAkashi/AymanAkashi/main/assets/cards/webserv-42.png" alt="WebServ_42 repository card" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/AymanAkashi/Cub3D-42-cursus">
-    <img width="49%" src="https://raw.githubusercontent.com/AymanAkashi/AymanAkashi/main/assets/cards/cub3d.png" alt="Cub3D repository card" />
-  </a>
-  <a href="https://github.com/AymanAkashi/Minishell_42">
-    <img width="49%" src="https://raw.githubusercontent.com/AymanAkashi/AymanAkashi/main/assets/cards/minishell.png" alt="Minishell repository card" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/AymanAkashi/HyperTube">HyperTube</a></h3>
+      <p>Authentication, movie search, and torrent-based streaming platform with API and streaming services.</p>
+      <p><strong>TypeScript</strong> · NestJS · Django · Docker · PostgreSQL · Redis</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/segfault-terror/KingPong">KingPong</a></h3>
+      <p>Full-stack Pong platform with auth, chat, profiles, achievements, and real-time multiplayer gameplay.</p>
+      <p><strong>Next.js</strong> · NestJS · Socket.io · Prisma · Docker</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/AymanAkashi/Inception_42">Inception_42</a></h3>
+      <p>Containerized infrastructure project with multiple services running together through Docker.</p>
+      <p><strong>Docker</strong> · Nginx · Linux · Services</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Mou-SED/WebServ_42">WebServ_42</a></h3>
+      <p>Custom HTTP server built to understand requests, responses, sockets, and networking under the hood.</p>
+      <p><strong>C++</strong> · HTTP · Sockets · Networking</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/AymanAkashi/Cub3D-42-cursus">Cub3D</a></h3>
+      <p>Ray-casting graphics project inspired by early FPS engines, with parsing and dynamic maze rendering.</p>
+      <p><strong>C</strong> · Ray casting · Graphics · Parsing</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/AymanAkashi/Minishell_42">Minishell</a></h3>
+      <p>Unix shell implementation with parsing, processes, pipes, redirections, signals, and built-ins.</p>
+      <p><strong>C</strong> · Unix · Processes · Parsing</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
