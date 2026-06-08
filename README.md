@@ -1,12 +1,15 @@
-<h1 align="center">Hi, I'm Aymane Aggoujjil 👋</h1>
+<h1 align="center">Hi, I'm Aymane Aggoujjil</h1>
 
 <p align="center">
-  <strong>Software Engineer</strong> focused on full-stack web apps, real-time systems, and low-level programming.
+  <strong>Software Engineer</strong> building full-stack products, real-time systems, and backend services.
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/aymane-aggoujjil">
-    <img src="https://img.shields.io/badge/LinkedIn-Aymane%20Aggoujjil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Aymane%20Aggoujjil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/AymanAkashi?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20repos-21-181717?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories" />
   </a>
 </p>
 
@@ -14,49 +17,36 @@
 
 ## About me
 
-I'm a Software Engineer who enjoys building practical, well-structured applications from frontend to backend.
+I'm a Software Engineer focused on practical, well-structured applications from UI to infrastructure.
 
-- 🔭 Working with modern web technologies like **TypeScript, React, Next.js, and NestJS**
-- ⚙️ Interested in **backend architecture, real-time apps, Docker, and system design**
-- 🧠 Strong foundation in **C, C++, Unix systems, networking, and 42-school projects**
-- 💬 Ask me about **TypeScript, React, NestJS, Docker, C/C++, and Git**
-- 🚀 Always improving my engineering practices, code quality, and product thinking
-
----
-
-## Featured projects
-
-### 🕹️ KingPong
-Full-stack Pong game web app with authentication, real-time chat, user profiles, achievements, and multiplayer gameplay.
-
-**Tech:** Next.js, NestJS, PostgreSQL, Prisma, Socket.io, Nginx, Minio, Docker
-
-Repository: `segfault-terror/KingPong`
+- Working with **TypeScript, React, Next.js, NestJS, PostgreSQL, Docker, and Nginx**
+- Interested in **backend architecture, real-time apps, authentication, APIs, and system design**
+- Strong low-level foundation from **C, C++, Unix systems, networking, parsing, and 42 projects**
+- Ask me about **full-stack TypeScript, Dockerized services, C/C++, Git, and web fundamentals**
+- Currently open to building products that need clean engineering and fast iteration
 
 ---
 
-### 🎬 HyperTube
-Movie streaming/torrent-based web application project with backend services and media-related features.
+## Selected work
 
-**Tech:** TypeScript, NestJS, Docker, APIs, authentication
-
-Repository: `AymanAkashi/HyperTube`
-
----
-
-### 🌐 WebServ_42
-Custom HTTP server built in C++ to understand how web servers, requests, responses, and networking work under the hood.
-
-**Tech:** C++, HTTP, networking, sockets
-
-Repository: `Mou-SED/WebServ_42`
+| Project | What it shows | Stack |
+| --- | --- | --- |
+| [KingPong](https://github.com/segfault-terror/KingPong) | Full-stack Pong platform with authentication, real-time chat, profiles, achievements, and multiplayer gameplay | Next.js, NestJS, PostgreSQL, Prisma, Socket.io, Nginx, Minio, Docker |
+| [HyperTube](https://github.com/AymanAkashi/HyperTube) | Authentication, movie search, and torrent-based streaming platform with separate API and streaming services | TypeScript, NestJS, Prisma, Django, Celery, PostgreSQL, Redis, Docker |
+| [WebServ_42](https://github.com/Mou-SED/WebServ_42) | Custom HTTP server and request/response handling from first principles | C++, HTTP, sockets, networking |
+| [Inception_42](https://github.com/AymanAkashi/Inception_42) | Multi-service containerized infrastructure project | Docker, Nginx, services, Linux |
+| [Cub3D](https://github.com/AymanAkashi/Cub3D-42-cursus) | Ray-casting graphics project inspired by early FPS engines | C, graphics, parsing |
+| [Minishell](https://github.com/AymanAkashi/Minishell_42) | Unix shell implementation with parsing, processes, pipes, and built-ins | C, Unix, processes |
 
 ---
 
-### 🧱 42 Low-level projects
-A collection of C/C++ projects focused on algorithms, Unix systems, memory management, parsing, and graphics.
+## Repository map
 
-**Projects:** Minishell, Cub3D, Inception, Pipex, Push_swap, Libft, ft_printf, Get_next_line
+**Full-stack and web:** [HyperTube](https://github.com/AymanAkashi/HyperTube), [wordly](https://github.com/AymanAkashi/wordly), [Authv5](https://github.com/AymanAkashi/Authv5), [Median-RestAPI](https://github.com/AymanAkashi/Median-RestAPI), [git-github-flyer](https://github.com/AymanAkashi/git-github-flyer), [calculator_react_app](https://github.com/AymanAkashi/calculator_react_app)
+
+**Systems and 42 school:** [Inception_42](https://github.com/AymanAkashi/Inception_42), [Cub3D-42-cursus](https://github.com/AymanAkashi/Cub3D-42-cursus), [Minishell_42](https://github.com/AymanAkashi/Minishell_42), [Pipex](https://github.com/AymanAkashi/Pipex), [Philosopher_42](https://github.com/AymanAkashi/Philosopher_42), [Push_swap-42](https://github.com/AymanAkashi/Push_swap-42), [Libft-42](https://github.com/AymanAkashi/Libft-42), [ft_printf-42](https://github.com/AymanAkashi/ft_printf-42), [Get_next_line-42](https://github.com/AymanAkashi/Get_next_line-42), [So_Long](https://github.com/AymanAkashi/So_Long)
+
+**Algorithms and practice:** [Problem-set](https://github.com/AymanAkashi/Problem-set), [CPP-Modules-42](https://github.com/AymanAkashi/CPP-Modules-42)
 
 ---
 
@@ -70,16 +60,20 @@ A collection of C/C++ projects focused on algorithms, Unix systems, memory manag
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### Backend & Database
+### Backend and data
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 
-### DevOps & Tools
+### DevOps and tools
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=flat&logo=vagrant&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=flat&logo=github&logoColor=white)
 
 ### Low-level
@@ -97,9 +91,9 @@ A collection of C/C++ projects focused on algorithms, Unix systems, memory manag
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AymanAkashi&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AymanAkashi&theme=github_dark&hide_border=true&include_all_commits=true" alt="Aymane's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanAkashi&theme=github_dark&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanAkashi&theme=github_dark&hide_border=true&layout=compact" alt="Top languages" />
 </p>
