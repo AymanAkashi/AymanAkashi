@@ -31,28 +31,28 @@ I'm a Software Engineer focused on practical, well-structured applications from 
 
 <p align="center">
   <a href="https://github.com/AymanAkashi/HyperTube">
-    <img width="49%" src="./assets/cards/hypertube.svg" alt="HyperTube repository card" />
+    <img width="49%" src="./assets/cards/hypertube.png" alt="HyperTube repository card" />
   </a>
   <a href="https://github.com/segfault-terror/KingPong">
-    <img width="49%" src="./assets/cards/kingpong.svg" alt="KingPong repository card" />
+    <img width="49%" src="./assets/cards/kingpong.png" alt="KingPong repository card" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/AymanAkashi/Inception_42">
-    <img width="49%" src="./assets/cards/inception-42.svg" alt="Inception_42 repository card" />
+    <img width="49%" src="./assets/cards/inception-42.png" alt="Inception_42 repository card" />
   </a>
   <a href="https://github.com/Mou-SED/WebServ_42">
-    <img width="49%" src="./assets/cards/webserv-42.svg" alt="WebServ_42 repository card" />
+    <img width="49%" src="./assets/cards/webserv-42.png" alt="WebServ_42 repository card" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/AymanAkashi/Cub3D-42-cursus">
-    <img width="49%" src="./assets/cards/cub3d.svg" alt="Cub3D repository card" />
+    <img width="49%" src="./assets/cards/cub3d.png" alt="Cub3D repository card" />
   </a>
   <a href="https://github.com/AymanAkashi/Minishell_42">
-    <img width="49%" src="./assets/cards/minishell.svg" alt="Minishell repository card" />
+    <img width="49%" src="./assets/cards/minishell.png" alt="Minishell repository card" />
   </a>
 </p>
 
