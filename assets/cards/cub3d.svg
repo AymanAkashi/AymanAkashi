@@ -1,0 +1,12 @@
+<svg fill="none" viewBox="0 0 440 150" width="440" height="150" xmlns="http://www.w3.org/2000/svg">
+  <rect width="440" height="150" rx="8" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="439" height="149" rx="7.5" stroke="#30363d"/>
+  <text x="22" y="36" fill="#58a6ff" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Cub3D</text>
+  <text x="22" y="66" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="14">Ray-casting graphics project inspired by early FPS</text>
+  <text x="22" y="86" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="14">engines, with parsing and dynamic maze rendering.</text>
+  <circle cx="30" cy="122" r="6" fill="#555555"/>
+  <text x="44" y="127" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="13">C</text>
+  <text x="68" y="127" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="13">Ray casting</text>
+  <text x="154" y="127" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="13">Graphics</text>
+  <text x="226" y="127" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="13">Parsing</text>
+</svg>

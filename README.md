@@ -31,28 +31,28 @@ I'm a Software Engineer focused on practical, well-structured applications from 
 
 <p align="center">
   <a href="https://github.com/AymanAkashi/HyperTube">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AymanAkashi&repo=HyperTube&theme=github_dark&hide_border=true" alt="HyperTube repository card" />
+    <img width="49%" src="./assets/cards/hypertube.svg" alt="HyperTube repository card" />
   </a>
   <a href="https://github.com/segfault-terror/KingPong">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=segfault-terror&repo=KingPong&theme=github_dark&hide_border=true" alt="KingPong repository card" />
+    <img width="49%" src="./assets/cards/kingpong.svg" alt="KingPong repository card" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/AymanAkashi/Inception_42">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AymanAkashi&repo=Inception_42&theme=github_dark&hide_border=true" alt="Inception_42 repository card" />
+    <img width="49%" src="./assets/cards/inception-42.svg" alt="Inception_42 repository card" />
   </a>
   <a href="https://github.com/Mou-SED/WebServ_42">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mou-SED&repo=WebServ_42&theme=github_dark&hide_border=true" alt="WebServ_42 repository card" />
+    <img width="49%" src="./assets/cards/webserv-42.svg" alt="WebServ_42 repository card" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/AymanAkashi/Cub3D-42-cursus">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AymanAkashi&repo=Cub3D-42-cursus&theme=github_dark&hide_border=true" alt="Cub3D repository card" />
+    <img width="49%" src="./assets/cards/cub3d.svg" alt="Cub3D repository card" />
   </a>
   <a href="https://github.com/AymanAkashi/Minishell_42">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AymanAkashi&repo=Minishell_42&theme=github_dark&hide_border=true" alt="Minishell repository card" />
+    <img width="49%" src="./assets/cards/minishell.svg" alt="Minishell repository card" />
   </a>
 </p>
 
@@ -113,13 +113,17 @@ I'm a Software Engineer focused on practical, well-structured applications from 
 ## GitHub activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AymanAkashi&theme=github_dark&hide_border=true&include_all_commits=true&show_icons=true" alt="Aymane's GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AymanAkashi&theme=github_dark" alt="Aymane's GitHub stats" />
   <img width="49%" src="https://streak-stats.demolab.com?user=AymanAkashi&theme=github-dark-blue&hide_border=true" alt="Aymane's GitHub streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanAkashi&theme=github_dark&hide_border=true&layout=compact" alt="Top languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AymanAkashi&theme=github_dark" alt="Repositories per language" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AymanAkashi&theme=github_dark&utcOffset=1" alt="Productive time card" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AymanAkashi&theme=github_dark" alt="GitHub profile summary" />
 </p>
 
 <p align="center">
